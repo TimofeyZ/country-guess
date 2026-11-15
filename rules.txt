@@ -1,0 +1,1 @@
+чтобы поставить теги со свойством display:inline-block по центру нужно их родителю задать text align center

@@ -1,0 +1,6 @@
+Country: France
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Eiffel Tower Paris
+Search 2: Mont Saint-Michel France
+
+Run the downloader from the main folder to save photos here.

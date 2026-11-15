@@ -1,0 +1,6 @@
+Country: Brazil
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Christ the Redeemer Rio de Janeiro
+Search 2: Iguazu Falls Brazil
+
+Run the downloader from the main folder to save photos here.

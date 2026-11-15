@@ -1,0 +1,6 @@
+Country: Romania
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Bran Castle Romania
+Search 2: Peles Castle Romania
+
+Run the downloader from the main folder to save photos here.

@@ -1,0 +1,6 @@
+Country: Finland
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Suomenlinna Helsinki
+Search 2: Lapland Finland landscape
+
+Run the downloader from the main folder to save photos here.

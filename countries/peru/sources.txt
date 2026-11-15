@@ -1,0 +1,6 @@
+Country: Peru
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Machu Picchu Peru
+Search 2: Vinicunca Rainbow Mountain Peru
+
+Run the downloader from the main folder to save photos here.

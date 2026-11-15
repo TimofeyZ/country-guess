@@ -1,0 +1,6 @@
+Country: Vietnam
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Ha Long Bay Vietnam
+Search 2: Hoi An ancient town Vietnam
+
+Run the downloader from the main folder to save photos here.

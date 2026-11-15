@@ -1,0 +1,6 @@
+Country: Cambodia
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Angkor Wat Cambodia
+Search 2: Tonle Sap Cambodia
+
+Run the downloader from the main folder to save photos here.

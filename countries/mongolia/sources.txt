@@ -1,0 +1,6 @@
+Country: Mongolia
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Gobi Desert Mongolia
+Search 2: Erdene Zuu Monastery Mongolia
+
+Run the downloader from the main folder to save photos here.

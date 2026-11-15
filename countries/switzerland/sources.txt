@@ -1,0 +1,6 @@
+Country: Switzerland
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Matterhorn Switzerland
+Search 2: Chapel Bridge Lucerne Switzerland
+
+Run the downloader from the main folder to save photos here.

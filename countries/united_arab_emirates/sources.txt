@@ -1,0 +1,6 @@
+Country: United Arab Emirates
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Burj Khalifa Dubai UAE
+Search 2: Sheikh Zayed Grand Mosque Abu Dhabi
+
+Run the downloader from the main folder to save photos here.

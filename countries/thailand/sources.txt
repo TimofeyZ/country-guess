@@ -1,0 +1,6 @@
+Country: Thailand
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Grand Palace Bangkok Thailand
+Search 2: Phi Phi Islands Thailand
+
+Run the downloader from the main folder to save photos here.

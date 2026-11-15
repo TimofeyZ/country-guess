@@ -1,0 +1,6 @@
+Country: Ukraine
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Saint Sophia Cathedral Kyiv Ukraine
+Search 2: Lviv old town Ukraine
+
+Run the downloader from the main folder to save photos here.

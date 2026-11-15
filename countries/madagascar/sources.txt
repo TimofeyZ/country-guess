@@ -1,0 +1,6 @@
+Country: Madagascar
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Avenue of the Baobabs Madagascar
+Search 2: Tsingy de Bemaraha Madagascar
+
+Run the downloader from the main folder to save photos here.

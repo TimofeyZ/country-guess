@@ -1,0 +1,6 @@
+Country: Jordan
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Petra Jordan
+Search 2: Wadi Rum Jordan
+
+Run the downloader from the main folder to save photos here.

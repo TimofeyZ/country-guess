@@ -1,0 +1,6 @@
+Country: Botswana
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Okavango Delta
+Search 2: Chobe National Park Botswana
+
+Run the downloader from the main folder to save photos here.

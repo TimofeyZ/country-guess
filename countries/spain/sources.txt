@@ -1,0 +1,6 @@
+Country: Spain
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Sagrada Familia Barcelona
+Search 2: Alhambra Granada Spain
+
+Run the downloader from the main folder to save photos here.

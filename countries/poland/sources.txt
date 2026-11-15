@@ -1,0 +1,6 @@
+Country: Poland
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Wawel Castle Krakow Poland
+Search 2: Warsaw old town Poland
+
+Run the downloader from the main folder to save photos here.

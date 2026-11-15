@@ -1,0 +1,6 @@
+Country: South Africa
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Table Mountain Cape Town
+Search 2: Kruger National Park South Africa
+
+Run the downloader from the main folder to save photos here.

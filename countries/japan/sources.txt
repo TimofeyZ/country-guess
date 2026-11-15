@@ -1,0 +1,6 @@
+Country: Japan
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Mount Fuji Japan
+Search 2: Fushimi Inari Shrine Kyoto
+
+Run the downloader from the main folder to save photos here.

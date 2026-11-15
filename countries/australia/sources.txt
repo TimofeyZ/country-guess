@@ -1,0 +1,6 @@
+Country: Australia
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Sydney Opera House
+Search 2: Uluru Australia
+
+Run the downloader from the main folder to save photos here.

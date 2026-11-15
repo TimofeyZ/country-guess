@@ -1,0 +1,6 @@
+Country: Kenya
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Maasai Mara Kenya
+Search 2: Mount Kenya landscape
+
+Run the downloader from the main folder to save photos here.

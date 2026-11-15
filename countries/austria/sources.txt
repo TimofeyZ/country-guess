@@ -1,0 +1,6 @@
+Country: Austria
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Schönbrunn Palace Vienna
+Search 2: Hallstatt Austria
+
+Run the downloader from the main folder to save photos here.

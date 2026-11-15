@@ -1,0 +1,6 @@
+Country: Lithuania
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Vilnius old town Lithuania
+Search 2: Trakai Island Castle Lithuania
+
+Run the downloader from the main folder to save photos here.

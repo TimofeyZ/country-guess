@@ -1,0 +1,6 @@
+Country: Oman
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Sultan Qaboos Grand Mosque Oman
+Search 2: Wahiba Sands Oman
+
+Run the downloader from the main folder to save photos here.

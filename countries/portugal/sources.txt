@@ -1,0 +1,6 @@
+Country: Portugal
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Belem Tower Lisbon Portugal
+Search 2: Porto Ribeira Portugal
+
+Run the downloader from the main folder to save photos here.

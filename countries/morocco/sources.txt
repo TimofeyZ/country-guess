@@ -1,0 +1,6 @@
+Country: Morocco
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Chefchaouen Morocco
+Search 2: Ait Benhaddou Morocco
+
+Run the downloader from the main folder to save photos here.

@@ -1,0 +1,6 @@
+Country: Bolivia
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Salar de Uyuni
+Search 2: Tiwanaku Bolivia
+
+Run the downloader from the main folder to save photos here.

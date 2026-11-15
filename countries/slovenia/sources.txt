@@ -1,0 +1,6 @@
+Country: Slovenia
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Lake Bled Slovenia
+Search 2: Postojna Cave Slovenia
+
+Run the downloader from the main folder to save photos here.

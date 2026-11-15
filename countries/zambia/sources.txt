@@ -1,0 +1,6 @@
+Country: Zambia
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Victoria Falls Zambia
+Search 2: South Luangwa National Park Zambia
+
+Run the downloader from the main folder to save photos here.

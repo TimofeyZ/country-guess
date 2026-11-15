@@ -1,0 +1,6 @@
+Country: Iceland
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Kirkjufell Iceland
+Search 2: Skogafoss Iceland
+
+Run the downloader from the main folder to save photos here.

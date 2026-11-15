@@ -1,0 +1,6 @@
+Country: Indonesia
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Borobudur Indonesia
+Search 2: Bali rice terraces Indonesia
+
+Run the downloader from the main folder to save photos here.

@@ -1,0 +1,6 @@
+Country: Bangladesh
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Sundarbans Bangladesh
+Search 2: Lalbagh Fort Dhaka
+
+Run the downloader from the main folder to save photos here.

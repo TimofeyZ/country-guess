@@ -1,0 +1,6 @@
+Country: New Zealand
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Milford Sound New Zealand
+Search 2: Aoraki Mount Cook New Zealand
+
+Run the downloader from the main folder to save photos here.

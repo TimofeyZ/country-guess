@@ -1,0 +1,6 @@
+Country: South Korea
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Gyeongbokgung Palace Seoul
+Search 2: Jeju Island South Korea
+
+Run the downloader from the main folder to save photos here.

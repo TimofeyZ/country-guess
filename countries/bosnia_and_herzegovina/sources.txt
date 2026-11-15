@@ -1,0 +1,6 @@
+Country: Bosnia and Herzegovina
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Stari Most Mostar
+Search 2: Sarajevo old town
+
+Run the downloader from the main folder to save photos here.

@@ -1,0 +1,93 @@
+﻿country,folder,first_photo_search,second_photo_search,status
+Argentina,iguazu_falls,Iguazu Falls,La Boca Buenos Aires,new - run download_photos.py
+Australia,australia,Sydney Opera House,Uluru Australia,new - run download_photos.py
+Austria,austria,Schönbrunn Palace Vienna,Hallstatt Austria,new - run download_photos.py
+Azerbaijan,azerbaijan,Flame Towers Baku,Gobustan Azerbaijan,new - run download_photos.py
+Bangladesh,bangladesh,Sundarbans Bangladesh,Lalbagh Fort Dhaka,new - run download_photos.py
+Belarus,belarus,Mir Castle Belarus,Minsk Belarus city,new - run download_photos.py
+Belgium,belgium,Grand Place Brussels,Bruges canals Belgium,new - run download_photos.py
+Bolivia,bolivia,Salar de Uyuni,Tiwanaku Bolivia,new - run download_photos.py
+Bosnia and Herzegovina,bosnia_and_herzegovina,Stari Most Mostar,Sarajevo old town,new - run download_photos.py
+Botswana,botswana,Okavango Delta,Chobe National Park Botswana,new - run download_photos.py
+Brazil,brazil,Christ the Redeemer Rio de Janeiro,Iguazu Falls Brazil,new - run download_photos.py
+Bulgaria,bulgaria,Rila Monastery,Plovdiv old town Bulgaria,new - run download_photos.py
+Cambodia,cambodia,Angkor Wat Cambodia,Tonle Sap Cambodia,new - run download_photos.py
+Chile,chile,Torres del Paine,Atacama Desert Chile,new - run download_photos.py
+China,china,Great Wall of China,Forbidden City Beijing,new - run download_photos.py
+Colombia,colombia,Cartagena Colombia old town,Cocora Valley Colombia,new - run download_photos.py
+Costa Rica,costa_rica,Arenal Volcano Costa Rica,Monteverde cloud forest,new - run download_photos.py
+Croatia,croatia,Dubrovnik old town,Plitvice Lakes Croatia,new - run download_photos.py
+Cuba,cuba,Old Havana Cuba,Vinales Valley Cuba,new - run download_photos.py
+Cyprus,cyprus,Paphos archaeological park Cyprus,Nicosia old town Cyprus,new - run download_photos.py
+Czech Republic,czech_republic,Prague Castle Czech Republic,Charles Bridge Prague,new - run download_photos.py
+Denmark,denmark,Nyhavn Copenhagen,Kronborg Castle Denmark,new - run download_photos.py
+Dominican Republic,dominican_republic,Santo Domingo Colonial Zone,Punta Cana Dominican Republic,new - run download_photos.py
+Ecuador,ecuador,Galapagos Islands Ecuador,Quito historic center,new - run download_photos.py
+Estonia,estonia,Tallinn old town Estonia,Lahemaa National Park Estonia,new - run download_photos.py
+Ethiopia,ethiopia,Lalibela rock-hewn churches,Simien Mountains Ethiopia,new - run download_photos.py
+Finland,finland,Suomenlinna Helsinki,Lapland Finland landscape,new - run download_photos.py
+France,france,Eiffel Tower Paris,Mont Saint-Michel France,new - run download_photos.py
+Georgia,georgia,Gergeti Trinity Church Georgia,Tbilisi old town Georgia,new - run download_photos.py
+Ghana,ghana,Cape Coast Castle Ghana,Kakum National Park Ghana,new - run download_photos.py
+Greece,greece,Acropolis Athens Greece,Santorini Oia Greece,new - run download_photos.py
+Guatemala,guatemala,Tikal Guatemala,Antigua Guatemala historic center,new - run download_photos.py
+Hungary,hungary,Hungarian Parliament Budapest,Fishermans Bastion Budapest,new - run download_photos.py
+Iceland,iceland,Kirkjufell Iceland,Skogafoss Iceland,new - run download_photos.py
+Indonesia,indonesia,Borobudur Indonesia,Bali rice terraces Indonesia,new - run download_photos.py
+Iran,iran,Persepolis Iran,Nasir al-Mulk Mosque Shiraz,new - run download_photos.py
+Iraq,iraq,Erbil Citadel Iraq,Ziggurat of Ur Iraq,new - run download_photos.py
+Ireland,ireland,Cliffs of Moher Ireland,Trinity College Dublin Ireland,new - run download_photos.py
+Japan,japan,Mount Fuji Japan,Fushimi Inari Shrine Kyoto,new - run download_photos.py
+Jordan,jordan,Petra Jordan,Wadi Rum Jordan,new - run download_photos.py
+Kazakhstan,kazakhstan,Charyn Canyon Kazakhstan,Bayterek Tower Astana,new - run download_photos.py
+Kenya,kenya,Maasai Mara Kenya,Mount Kenya landscape,new - run download_photos.py
+Laos,laos,Luang Prabang Laos,Kuang Si Falls Laos,new - run download_photos.py
+Latvia,latvia,Riga old town Latvia,Rundale Palace Latvia,new - run download_photos.py
+Lebanon,lebanon,Baalbek Roman ruins Lebanon,Jeita Grotto Lebanon,new - run download_photos.py
+Lithuania,lithuania,Vilnius old town Lithuania,Trakai Island Castle Lithuania,new - run download_photos.py
+Madagascar,madagascar,Avenue of the Baobabs Madagascar,Tsingy de Bemaraha Madagascar,new - run download_photos.py
+Malaysia,malaysia,Petronas Twin Towers Kuala Lumpur,Langkawi Malaysia landscape,new - run download_photos.py
+Maldives,maldives,Maldives atolls aerial,Male Grand Friday Mosque Maldives,new - run download_photos.py
+Malta,malta,Valletta Malta old town,Mdina Malta,new - run download_photos.py
+Mongolia,mongolia,Gobi Desert Mongolia,Erdene Zuu Monastery Mongolia,new - run download_photos.py
+Morocco,morocco,Chefchaouen Morocco,Ait Benhaddou Morocco,new - run download_photos.py
+Myanmar,myanmar,Bagan temples Myanmar,Shwedagon Pagoda Yangon,new - run download_photos.py
+Namibia,namibia,Sossusvlei dunes Namibia,Etosha National Park Namibia,new - run download_photos.py
+Nepal,nepal,Mount Everest Nepal,Boudhanath Stupa Kathmandu,new - run download_photos.py
+Netherlands,netherlands,Amsterdam canals Netherlands,Kinderdijk windmills Netherlands,new - run download_photos.py
+New Zealand,new_zealand,Milford Sound New Zealand,Aoraki Mount Cook New Zealand,new - run download_photos.py
+Nigeria,nigeria,Zuma Rock Nigeria,Olumo Rock Nigeria,new - run download_photos.py
+Norway,norway,Geirangerfjord Norway,Lofoten Islands Norway,new - run download_photos.py
+Oman,oman,Sultan Qaboos Grand Mosque Oman,Wahiba Sands Oman,new - run download_photos.py
+Pakistan,pakistan,Badshahi Mosque Lahore Pakistan,Hunza Valley Pakistan,new - run download_photos.py
+Panama,panama,Panama Canal Panama,Casco Viejo Panama City,new - run download_photos.py
+Paraguay,paraguay,La Santisima Trinidad Jesuit Missions Paraguay,Itaipu Dam Paraguay,new - run download_photos.py
+Peru,peru,Machu Picchu Peru,Vinicunca Rainbow Mountain Peru,new - run download_photos.py
+Philippines,philippines,Chocolate Hills Philippines,Banaue Rice Terraces Philippines,new - run download_photos.py
+Poland,poland,Wawel Castle Krakow Poland,Warsaw old town Poland,new - run download_photos.py
+Portugal,portugal,Belem Tower Lisbon Portugal,Porto Ribeira Portugal,new - run download_photos.py
+Romania,romania,Bran Castle Romania,Peles Castle Romania,new - run download_photos.py
+Saudi Arabia,saudi_arabia,Hegra AlUla Saudi Arabia,Kingdom Centre Riyadh Saudi Arabia,new - run download_photos.py
+Senegal,senegal,African Renaissance Monument Dakar,Goree Island Senegal,new - run download_photos.py
+Serbia,serbia,Belgrade Fortress Serbia,Petrovaradin Fortress Novi Sad,new - run download_photos.py
+Singapore,singapore,Marina Bay Sands Singapore,Gardens by the Bay Singapore,new - run download_photos.py
+Slovakia,slovakia,High Tatras Slovakia,Bratislava Castle Slovakia,new - run download_photos.py
+Slovenia,slovenia,Lake Bled Slovenia,Postojna Cave Slovenia,new - run download_photos.py
+South Africa,south_africa,Table Mountain Cape Town,Kruger National Park South Africa,new - run download_photos.py
+South Korea,south_korea,Gyeongbokgung Palace Seoul,Jeju Island South Korea,new - run download_photos.py
+Spain,spain,Sagrada Familia Barcelona,Alhambra Granada Spain,new - run download_photos.py
+Sri Lanka,sri_lanka,Sigiriya Sri Lanka,Temple of the Tooth Kandy Sri Lanka,new - run download_photos.py
+Sweden,sweden,Gamla Stan Stockholm Sweden,Icehotel Jukkasjarvi Sweden,new - run download_photos.py
+Switzerland,switzerland,Matterhorn Switzerland,Chapel Bridge Lucerne Switzerland,new - run download_photos.py
+Thailand,thailand,Grand Palace Bangkok Thailand,Phi Phi Islands Thailand,new - run download_photos.py
+Tunisia,tunisia,Amphitheatre of El Jem Tunisia,Sidi Bou Said Tunisia,new - run download_photos.py
+Turkey,turkey,Hagia Sophia Istanbul Turkey,Cappadocia Turkey landscape,new - run download_photos.py
+Ukraine,ukraine,Saint Sophia Cathedral Kyiv Ukraine,Lviv old town Ukraine,new - run download_photos.py
+United Arab Emirates,united_arab_emirates,Burj Khalifa Dubai UAE,Sheikh Zayed Grand Mosque Abu Dhabi,new - run download_photos.py
+United Kingdom,united_kingdom,Tower Bridge London UK,Giant Causeway Northern Ireland,new - run download_photos.py
+Uruguay,uruguay,Colonia del Sacramento Uruguay,Punta del Este Uruguay,new - run download_photos.py
+Vatican City,vatican_city,Saint Peters Basilica Vatican City,Vatican Museums Vatican City,new - run download_photos.py
+Vietnam,vietnam,Ha Long Bay Vietnam,Hoi An ancient town Vietnam,new - run download_photos.py
+Zambia,zambia,Victoria Falls Zambia,South Luangwa National Park Zambia,new - run download_photos.py
+Zimbabwe,zimbabwe,Great Zimbabwe ruins,Victoria Falls Zimbabwe,new - run download_photos.py
+Egypt,egypt,Pyramids of Giza Egypt,Abu Simbel Egypt,existing empty folder - run download_photos.py

@@ -1,0 +1,6 @@
+Country: Serbia
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Belgrade Fortress Serbia
+Search 2: Petrovaradin Fortress Novi Sad
+
+Run the downloader from the main folder to save photos here.

@@ -1,0 +1,6 @@
+Country: Chile
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Torres del Paine
+Search 2: Atacama Desert Chile
+
+Run the downloader from the main folder to save photos here.

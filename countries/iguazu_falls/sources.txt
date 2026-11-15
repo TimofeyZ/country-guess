@@ -1,0 +1,6 @@
+Country: Argentina
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Iguazu Falls
+Search 2: La Boca Buenos Aires
+
+Run the downloader from the main folder to save photos here.

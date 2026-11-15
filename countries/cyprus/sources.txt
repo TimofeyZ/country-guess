@@ -1,0 +1,6 @@
+Country: Cyprus
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Paphos archaeological park Cyprus
+Search 2: Nicosia old town Cyprus
+
+Run the downloader from the main folder to save photos here.

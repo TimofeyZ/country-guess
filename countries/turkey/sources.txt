@@ -1,0 +1,6 @@
+Country: Turkey
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Hagia Sophia Istanbul Turkey
+Search 2: Cappadocia Turkey landscape
+
+Run the downloader from the main folder to save photos here.

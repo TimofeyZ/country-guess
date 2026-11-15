@@ -1,0 +1,6 @@
+Country: Nepal
+Image source: Wikimedia Commons (downloaded by download_photos.py)
+Search 1: Mount Everest Nepal
+Search 2: Boudhanath Stupa Kathmandu
+
+Run the downloader from the main folder to save photos here.
